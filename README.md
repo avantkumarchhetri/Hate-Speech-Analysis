@@ -59,4 +59,4 @@
 
 **Accuracy**
 - And here we go! The accuracy turned out to be 94.8%!
-![](/images/accuracy.png)
+![](/Images/accuracy.png)
