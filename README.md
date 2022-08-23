@@ -55,7 +55,6 @@
 **Model Building**
 - Now that we have vectorized all the tweets, we will build a model to classify the test data. 
 - We will use a supervised learning algorithm, Support Vector Classifier (SVC). It is widely used for binary classifications and multi-class classifications.
-- You can find more explanation on the scikit-learn documentation page: https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 
 **Accuracy**
 - And here we go! The accuracy turned out to be 94.8%!
